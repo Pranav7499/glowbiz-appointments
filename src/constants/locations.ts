@@ -1,0 +1,18 @@
+export const CATEGORIES = [
+  "Barbershop",
+  "Body Treatments",
+  "Counselling & Holistic",
+  "Eyebrows & Eyelashes",
+  "Facial & Skincare",
+  "Fitness Center",
+  "Hair Removal",
+  "Hair & Styling",
+  "Home Salon Services",
+  "Injectable & Fillers",
+  "Makeup",
+  "Massage",
+  "Medical & Dental",
+  "Nails Salon",
+  "Pet Grooming",
+  "Tattoo & Piercing",
+];
